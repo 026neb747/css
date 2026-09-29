@@ -145,9 +145,3 @@
 #p35 {
     text-shadow: 2px 2px 4px rgba(0, 0, 255, 0.6);
 }
-
-.content {
-    margin-bottom: 20px; 
-    min-height: 40px;
-    max-width: 500px;
-}
